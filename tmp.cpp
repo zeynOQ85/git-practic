@@ -2,4 +2,5 @@
 ysing namespace std;
 void printed(){
   cout<<"in che tamrini bood????:/";
+  cout<<"taghir online dar sait ";
 }
